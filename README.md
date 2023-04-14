@@ -1,2 +1,2 @@
 # WCU-CS-Resources
-A compilation of any resources for coding, made by WCU students~
+A compilation of any resources for coding, made by WCU students!
